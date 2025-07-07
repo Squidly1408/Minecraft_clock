@@ -10,13 +10,6 @@ The project was created as a fun experiment to merge real-world timekeeping with
 To get the app for windows, without having to install and set-up Python, you should be able to go the folder labeled "dist" then you should see and .exe file you can download and run.
 
 
-
-main
-  - dist
-      - Minecraft_clock.exe
-
-
-
 ## 🧱 Features
 
 - Frameless, always-on-top window with transparent background
