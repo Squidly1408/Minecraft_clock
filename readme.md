@@ -22,15 +22,5 @@ The project was created as a fun experiment to merge real-world timekeeping with
 - Frames progress every ~22.8 minutes
 - There are 63 frames total, evenly spaced over 24 hours
 
-## 📁 File Structure
-
-Minecraft_clock/
-├── Minecraft_clock.py # Main application script
-├── icon.ico # Windows icon (must be .ico format)
-└── frames/
-├── frame_0.png
-├── frame_1.png
-├── ...
-└── frame_63.png
 
 If you have any feedback, ideas, or bug reports, feel free to reach out to me at Squidly1408@Gmail.com
