@@ -6,6 +6,17 @@ This is a lightweight Windows desktop app that visually represents the Minecraft
 
 The project was created as a fun experiment to merge real-world timekeeping with the familiar Minecraft aesthetic. It’s ideal for those who want a dynamic, minimal clock that feels like it came straight from a pixel world.
 
+## For Windows Download
+To get the app for windows, without having to install and set-up Python, you should be able to go the folder labeled "dist" then you should see and .exe file you can download and run.
+
+
+
+main
+  - dist
+      - Minecraft_clock.exe
+
+
+
 ## 🧱 Features
 
 - Frameless, always-on-top window with transparent background
