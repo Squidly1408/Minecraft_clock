@@ -6,6 +6,11 @@ This is a lightweight Windows desktop app that visually represents the Minecraft
 
 The project was created as a fun experiment to merge real-world timekeeping with the familiar Minecraft aesthetic. It’s ideal for those who want a dynamic, minimal clock that feels like it came straight from a pixel world.
 
+## For Windows Download
+To get the app for windows, without having to install and set-up Python, you should be able to go the folder labeled "dist" then you should see and .exe file you can download and run.
+
+https://github.com/Squidly1408/Minecraft_clock/blob/main/dist/Minecraft_clock.exe
+
 ## 🧱 Features
 
 - Frameless, always-on-top window with transparent background
@@ -22,15 +27,5 @@ The project was created as a fun experiment to merge real-world timekeeping with
 - Frames progress every ~22.8 minutes
 - There are 63 frames total, evenly spaced over 24 hours
 
-## 📁 File Structure
-
-Minecraft_clock/
-├── Minecraft_clock.py # Main application script
-├── icon.ico # Windows icon (must be .ico format)
-└── frames/
-├── frame_0.png
-├── frame_1.png
-├── ...
-└── frame_63.png
 
 If you have any feedback, ideas, or bug reports, feel free to reach out to me at Squidly1408@Gmail.com
