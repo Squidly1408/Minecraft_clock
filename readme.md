@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/Squidly1408/Squidly1408/refs/heads/main/images/Squidly1408%20banner%20(Black%20Button%20Background).png)
+![Minecraft Clock Banner](./.github/banner.png)
 
 # Minecraft Clock
 
