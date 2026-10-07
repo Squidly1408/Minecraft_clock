@@ -1,4 +1,4 @@
-![Minecraft Clock Banner](./.github/banner.png)
+<p align="center"><img src=".github/banner.png" alt="Minecraft Clock" width="640"></p>
 
 # Minecraft Clock
 
@@ -27,5 +27,8 @@ https://github.com/Squidly1408/Minecraft_clock/blob/main/dist/Minecraft_clock.ex
 - Frames progress every ~22.8 minutes
 - There are 63 frames total, evenly spaced over 24 hours
 
+## Other
+
+There is a similar repository I made called Minecraft_Compass, Check it out here: ![*Minecraft_Campass*](https://github.com/Squidly1408/Minecraft_Compass)
 
 If you have any feedback, ideas, or bug reports, feel free to reach out to me at Squidly1408@Gmail.com
