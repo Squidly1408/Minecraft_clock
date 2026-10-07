@@ -29,6 +29,6 @@ https://github.com/Squidly1408/Minecraft_clock/blob/main/dist/Minecraft_clock.ex
 
 ## Other
 
-There is a similar repository I made called Minecraft_Compass, Check it out here: ![*Minecraft_Campass*](https://github.com/Squidly1408/Minecraft_Compass)
+There is a similar repository I made called Minecraft_Compass, Check it out here: [*Minecraft_Campass*](https://github.com/Squidly1408/Minecraft_Compass)
 
 If you have any feedback, ideas, or bug reports, feel free to reach out to me at Squidly1408@Gmail.com
